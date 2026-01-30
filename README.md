@@ -1,15 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=500&lines=🚀+I'm+[NAME];Data+Scientist;Data+Analyst;ML+%7C+NLP+Enthusiast;Open+to+Collaboration!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=500&lines=🚀+I'm+[PRAMOD S];Data+Scientist;Data+Analyst;ML+%7C+NLP+Enthusiast;Open+to+Collaboration!" alt="Typing SVG">
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[LINKEDIN_ID]/" target="_blank">
+  <a href="https://www.linkedin.com/in/[https://www.linkedin.com/in/pramod-s-9175233a4/]/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/[USERNAME]" target="_blank">
+  <a href="https://github.com/[PRAMOD S]" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:[EMAIL]@gmail.com" target="_blank">
+  <a href="mailto:[pramods592001]@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
