@@ -1,5 +1,6 @@
  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=500&lines=🚀+I'm+[PRAMOD S];Data+Analyst;ML+%7C+NLP+Enthusiast;Open+to+Collaboration!"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=500&lines=🚀+I'm+[PRAMOD S];Data+Analyst;ML+%7C+NLP+Enthusiast;Open+to+Collaboration!" alt="Typing SVG">
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[PRAMOD S]&color=20B2AA&style=flat-square" alt="Profile Views" />
