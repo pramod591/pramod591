@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[PRAMOD S]&color=20B2AA&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/[USERNAME]?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/[PRAMOD S]?style=social" alt="GitHub Followers" />
 </p>
 
 <p align="center">
