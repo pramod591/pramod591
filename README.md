@@ -3,18 +3,18 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[USERNAME]&color=20B2AA&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=[PRAMOD S]&color=20B2AA&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/[USERNAME]?style=social" alt="GitHub Followers" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[LINKEDIN_ID]/" target="_blank">
+  <a href="https://www.linkedin.com/in/[https://www.linkedin.com/in/pramod-s-9175233a4/]/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/[USERNAME]" target="_blank">
+  <a href="https://github.com/[PRAMOD S]" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:[EMAIL]@gmail.com" target="_blank">
+  <a href="mailto:[pramods592001]@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://kaggle.com/[KAGGLE_USERNAME]" target="_blank">
@@ -30,7 +30,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[USERNAME]&theme=nord&column=7&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=[PRAMOD S]&theme=nord&column=7&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -79,18 +79,18 @@
 
 ### 📊 Activity Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[PRAMOD S]&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[PRAMOD S]&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME]&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[PRAMOD S]&theme=radical&hide_border=true" />
 </p>
 
 ### 🎯 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[USERNAME]&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[PRAMOD S]&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
 
 ### 📈 WakaTime Stats (Optional)
@@ -115,7 +115,7 @@
 <h3 align="center">📈 Sales Forecasting ML</h3>
 <div align="center">
 <a href="https://github.com/[USERNAME]/sales-forecasting">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=[USERNAME]&repo=sales-forecasting&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=[PRAMOD S]&repo=sales-forecasting&theme=radical" />
 </a>
 <p><strong>Tech:</strong> Python • Prophet • XGBoost • Streamlit</p>
 </div>
@@ -124,7 +124,7 @@
 <h3 align="center">🤖 NLP Sentiment Analysis</h3>
 <div align="center">
 <a href="https://github.com/[USERNAME]/nlp-sentiment">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=[USERNAME]&repo=nlp-sentiment&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=[PRAMOD S]&repo=nlp-sentiment&theme=radical" />
 </a>
 <p><strong>Tech:</strong> Transformers • BERT • FastAPI • Docker</p>
 </div>
